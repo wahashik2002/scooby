@@ -1,5 +1,5 @@
 scooby
 ======
 
-1st repository on github
-testing testin testing
+<center><h3>1st repository on github
+testing testin testing</h3></center>
